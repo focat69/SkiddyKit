@@ -18,20 +18,18 @@
  
 - ### 💬 Join Discord : [SkiddyKit Dumps](https://discord.gg/ZfJAbteux7) 
 
-### 📌: Public  !
-`SOURCE CODE , PRIVATE CHEAT , SPOOFER , JOIN DISCORD`
-#### Read more details here. [Information](https://github.com/Cloud-Official/Product) 
+### 📌: Public Tools !
+`SOURCE CODE , PUBLIC TOOLS , PYTHON , JOIN DISCORD`
 
-- It is safe and can be played on the main account.
-- You can request the features you want. (Which features are not safe? we will remind you)
-- After sales service which you don't have to worry about
+- It is safe; we do not log anything from our users.
+- Our source code is public, for anyone to see.
 
 
 ### 🛑: ToS 
 
 - We will not be held responsible for anything you do with this product.  
 - Educational purposes only.
-- We have the right to blacklist you at any point.
+- We have the right to blacklist you from ur premium version at any point.
 
 ---
 

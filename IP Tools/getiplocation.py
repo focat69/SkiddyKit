@@ -2,7 +2,7 @@ import socket
 import threading
 import os
 from time import sleep
-os.system("cls && title PWN C2 // Menu")
+os.system("cls && title SkiddyKit // Get Ip Location/Details")
 
 black = "\033[0;30m"
 red = "\033[0;31m"

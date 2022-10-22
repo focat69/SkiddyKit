@@ -23,6 +23,15 @@
 - Our source code is public, for anyone to see.
 
 
+### ✅: Current Features
+`Our features are being worked on; SkiddyKit is new and in development.`
+| Feature | Supported          |
+| ------- | ------------------ |
+| IP      | :white_check_mark: |
+| Dox     | :x:                |
+| Recon   | :x:                |
+| Dos     | :x:                |
+
 ### 🛑: ToS 
 
 - We will not be held responsible for anything you do with this product.  

@@ -17,7 +17,7 @@
 - ### 💬 Join Discord : [SkiddyKit Dumps](https://discord.gg/ZfJAbteux7) 
 
 ### 📌: Public Tools !
---
+----
 `SOURCE CODE , PUBLIC TOOLS , PYTHON , JOIN DISCORD`
 
 - It is safe; we do not log anything from our users.
@@ -25,7 +25,7 @@
 
 
 ### ✅: Current Features
---
+----
 `Our features are being worked on; SkiddyKit is new and in development.`
 | Feature | Supported          |
 | ------- | ------------------ |
@@ -36,7 +36,7 @@
 | (D)Dos  | :x:                |
 
 ### 🛑: ToS 
---
+----
 - We will not be held responsible for anything you do with this product.  
 - Educational purposes only.
 - We have the right to blacklist you from ur premium version at any point.

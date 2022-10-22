@@ -29,8 +29,6 @@
 - Educational purposes only.
 - We have the right to blacklist you from ur premium version at any point.
 
----
-
 
 <h2 align="center"> Copyright © 2022 - 2023
 

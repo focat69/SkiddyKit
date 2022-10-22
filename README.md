@@ -31,7 +31,7 @@ a Python kit for skids 🤡🤡
 | Feature | Supported          |
 | ------- | ------------------ |
 | IP      | :white_check_mark: |
-| Roblox Cookie Logger | :x:   |
+| Roblox Cookie Logger | :white_check_mark:   |
 | Dox     | :x:                |
 | Recon   | :x:                |
 | (D)Dos  | :x:                |

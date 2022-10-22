@@ -28,6 +28,7 @@
 | Feature | Supported          |
 | ------- | ------------------ |
 | IP      | :white_check_mark: |
+| Roblox Cookie Logger | :x:   |
 | Dox     | :x:                |
 | Recon   | :x:                |
 | (D)Dos  | :x:                |

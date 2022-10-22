@@ -3,7 +3,7 @@ a Python kit for skids 🤡🤡
 --
 *SkiddyKit* - **Only 7 steps**
 
-1. Download *SkiddyKit* from the repository above as a zip.
+1. Download *SkiddyKit* from this repository as a zip.
 Image:
 https://focat.just-hacked.me/hotmoms/jkLi9uMH
 

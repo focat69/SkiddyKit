@@ -30,7 +30,7 @@
 | IP      | :white_check_mark: |
 | Dox     | :x:                |
 | Recon   | :x:                |
-| Dos     | :x:                |
+| (D)Dos  | :x:                |
 
 ### 🛑: ToS 
 

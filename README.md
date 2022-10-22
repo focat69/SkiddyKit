@@ -10,8 +10,6 @@
 ## 🔎 〢 How To Use 
 - Get help on how to use SkiddyKit in our [Discord](https://discord.gg/ZfJAbteux7).
 
----
-
   <p align="center">
     <a href="https://discord.com/users/676960182621962271">
         <img title="focat" alt="focat" src="https://discord.c99.nl/widget/theme-4/676960182621962271.png"/>

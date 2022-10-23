@@ -16,7 +16,7 @@ a Python kit for skids 🤡🤡
     </a>
 </p> 
  
-- ### 💬 Join Discord : [SkiddyKit Dumps](https://discord.gg/ZfJAbteux7) 
+- ### 💬 Join Discord : [The Great Skidnation](https://discord.gg/ZfJAbteux7) 
 
 ### 📌: Public Tools !
 ----

@@ -1,4 +1,6 @@
 import os
+import requests
+import time
 try:
     from colorama import Fore
 except:
@@ -11,8 +13,6 @@ except:
         print('[+] Please restart the program.')
         time.sleep(3)
     sys.exit()
-import requests
-import time
 
 username = input(f'[{Fore.BLUE}?{Fore.RESET}] Enter username: ')
   

@@ -7,7 +7,8 @@ a Python kit for skids 🤡🤡
 
 
 ## 🔎 〢 How To Use 
-- Get help on how to use SkiddyKit in our [Discord](https://discord.gg/ZfJAbteux7).
+- Get help on how to use SkiddyKit in our [Discord](https://discord.gg/ZfJAbteux7).  
+[Download Zip](https://github.com/Code1Tech/SkiddyKit/archive/refs/heads/main.zip)
 
   <p align="center">
     <a href="https://discord.com/users/676960182621962271">
@@ -15,7 +16,7 @@ a Python kit for skids 🤡🤡
     </a>
 </p> 
  
-- ### 💬 Join Discord : [SkiddyKit Dumps](https://discord.gg/ZfJAbteux7) 
+- ### 💬 Join Discord : [The Great Skidnation](https://discord.gg/ZfJAbteux7) 
 
 ### 📌: Public Tools !
 ----
@@ -40,9 +41,9 @@ a Python kit for skids 🤡🤡
 ----
 - We will not be held responsible for anything you do with this product.  
 - Educational purposes only.
-- We have the right to blacklist you from ur premium version at any point.
+- We have the right to blacklist you from our premium version at any point.
 
 
 <h2 align="center"> Copyright © 2022 - 2023
 
-##### <p align="center">  JOIN DISCORD [SkiddyKit Dumps](https://discord.gg/ZfJAbteux7)
+##### <p align="center">  JOIN DISCORD [HERE](https://discord.gg/ZfJAbteux7)

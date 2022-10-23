@@ -70,12 +70,6 @@ canva = f'https://www.canva.com/{username}'
 creative_market = f'https://creativemarket.com/{username}'
 trakt = f'https://www.trakt.tv/users/{username}'
 five_hundred_px = f'https://500px.com/{username}'
-buzzfeed = f'https://buzzfeed.com/{username}'
-tripadvisor = f'https://tripadvisor.com/members/{username}'
-hubpages = f'https://{username}.hubpages.com'
-contently = f'https://{username}.contently.com'
-houzz = f'https://houzz.com/user/{username}'
-blipfm = f'https://blip.fm/{username}'
 wikipedia = f'https://www.wikipedia.org/wiki/User:{username}'
 hackernews = f'https://news.ycombinator.com/user?id={username}'
 codementor = f'https://www.codementor.io/{username}'
@@ -145,8 +139,7 @@ medium, deviantart, vk, aboutme, imgur, flipboard, slideshare, fotolog, spotify,
 mixcloud, scribd, badoo, patreon, bitbucket, dailymotion, etsy, cashme, behance,
 goodreads, instructables, keybase, kongregate, livejournal, angellist, last_fm,
 dribbble, codecademy, gravatar, pastebin, foursquare, roblox, gumroad, newsground,
-wattpad, canva, creative_market, trakt, five_hundred_px, buzzfeed, tripadvisor, hubpages,
-contently, houzz, blipfm, wikipedia, hackernews, reverb_nation, designspiration,
+wattpad, canva, creative_market, trakt, wikipedia, hackernews, reverb_nation, designspiration,
 bandcamp, colourlovers, ifttt, ebay, slack, okcupid, trip, ello, tracky, basecamp,
 repl_it, bit_ly, codepen, codesandbox, codechef, codeforces, codesignal, coderbyte,
 hackerrank, hackerearth, auth0, codewars, codeschool, codeshare, codegym, codecademy, codesnap,

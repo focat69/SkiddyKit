@@ -173,7 +173,7 @@ def search():
     c = input(f"[{Fore.BLUE}?{Fore.RESET}] Would you like to save the results to a file? (y/n): ")
     if c.lower().startswith('y'):
         print(f'[{Fore.BLUE}+{Fore.RESET}] Saving results to file...')
-        with open('results.txt', 'w') as f:
+        with open(f'{username}_results.txt', 'w') as f:
             f.write(f'[+] ~ Results ~\n')
             f.write(f'[~] {len(allLinks)} matches were found.\n')
             f.write(f'[~] {len(accurateLinks)} of these matches were accurate.\n')

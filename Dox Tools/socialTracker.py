@@ -1,6 +1,7 @@
 import os
 import requests
 import time
+import sys
 try:
     from colorama import Fore
 except:
@@ -83,7 +84,6 @@ slack = f'https://{username}.slack.com'
 okcupid = f'https://www.okcupid.com/profile/{username}'
 trip = f'https://www.trip.skyscanner.com/user/{username}'
 ello = f'https://ello.co/{username}'
-tracky = f'https://tracky.com/user/~{username}'
 basecamp = f'https://{username}.basecamphq.com/login'
 tradingview = f'https://www.tradingview.com/u/{username}'
 truelancer = f'https://www.truelancer.com/freelancer/{username}'
@@ -140,7 +140,7 @@ mixcloud, scribd, badoo, patreon, bitbucket, dailymotion, etsy, cashme, behance,
 goodreads, instructables, keybase, kongregate, livejournal, angellist, last_fm,
 dribbble, codecademy, gravatar, pastebin, foursquare, roblox, gumroad, newsground,
 wattpad, canva, creative_market, trakt, wikipedia, hackernews, reverb_nation, designspiration,
-bandcamp, colourlovers, ifttt, ebay, slack, okcupid, trip, ello, tracky, basecamp,
+bandcamp, colourlovers, ifttt, ebay, slack, okcupid, trip, ello, basecamp,
 repl_it, bit_ly, codepen, codesandbox, codechef, codeforces, codesignal, coderbyte,
 hackerrank, hackerearth, auth0, codewars, codeschool, codeshare, codegym, codecademy, codesnap,
 codeinstitute, codehs, codeigniter, codeconquest, codecool, codecombat, codeproject, codeeval,  

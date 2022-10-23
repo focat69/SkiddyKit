@@ -1,3 +1,6 @@
+# added checks for people who didnt install python right
+# thanks gc 💀
+
 try:
     import os
 except:

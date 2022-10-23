@@ -184,7 +184,7 @@ def search():
             f.write(f'[~] ~ All Links ~\n')
             for link in allLinks:
                 f.write(f'[-] {link}\n')
-        print(f'[{Fore.GREEN}~{Fore.RESET}] Results have been saved to "results.txt"')
+        print(f'[{Fore.GREEN}~{Fore.RESET}] Results have been saved to "{username}_results.txt"')
     print(f'[{Fore.GREEN}~{Fore.RESET}] Exiting...')
     time.sleep(1)
     sys.exit()

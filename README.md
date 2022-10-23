@@ -46,4 +46,4 @@ a Python kit for skids 🤡🤡
 
 <h2 align="center"> Copyright © 2022 - 2023
 
-##### <p align="center">  JOIN DISCORD [SkiddyKit Dumps](https://discord.gg/ZfJAbteux7)
+##### <p align="center">  JOIN DISCORD [HERE](https://discord.gg/ZfJAbteux7)

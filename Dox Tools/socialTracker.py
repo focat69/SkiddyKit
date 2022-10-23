@@ -192,10 +192,9 @@ def search():
             for link in allLinks:
                 f.write(f'[{Fore.BLUE}+{Fore.RESET}] {link}')
         print(f'[{Fore.GREEN}~{Fore.RESET}] Results have been saved to "results.txt"')
-    else:
-        print(f'[{Fore.GREEN}~{Fore.RESET}] Exiting...')
-        time.sleep(1)
-        sys.exit()
+    print(f'[{Fore.GREEN}~{Fore.RESET}] Exiting...')
+    time.sleep(1)
+    sys.exit()
 
 if __name__=='__main__':
     banner()

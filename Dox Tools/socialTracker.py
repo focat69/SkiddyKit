@@ -1,4 +1,16 @@
-from colorama import Fore
+import os
+try:
+    from colorama import Fore
+except:
+    print('[!] Please install the "colorama" module.')
+    print('[!] pip install colorama')
+    c = input('[?] Would you like to install it now? (y/n): ')
+    if c.lower().startswith('y'):
+        os.system('pip install colorama')
+        print('[+] Successfully installed "colorama" module.')
+        print('[+] Please restart the program.')
+        time.sleep(3)
+    sys.exit()
 import requests
 import time
 
@@ -163,10 +175,10 @@ def search():
                 allLinks.append(url)
 
     total = len(web)
-    print(f'[{Fore.GREEN}~{Fore.RESET}] {len(allLinks)} matches were found.')
+    print(f'[{Fore.GREEN}~{Fore.RESET}] {len(allLinks)} out of {total} matches were found.')
     print(f'[{Fore.GREEN}~{Fore.RESET}] {len(accurateLinks)} of these matches were accurate.')
-    c = input("[?] Would you like to save the results to a file? (y/n): ")
-    if c == 'y':
+    c = input(f"[{Fore.BLUE}?{Fore.RESET}] Would you like to save the results to a file? (y/n): ")
+    if c.lower().startswith('y'):
         print(f'[{Fore.BLUE}+{Fore.RESET}] Saving results to file...')
         with open('results.txt', 'w') as f:
             f.write(f'[+] ~ Results ~')

@@ -1,9 +1,28 @@
-import os
-import requests
-import time
-import sys
+try:
+    import os
+except:
+    print('Please install the "os" module.')
+    print('Type \"pip install os\" into your terminal to install it.')
+    input('Press enter to exit...')
+
+check1 = False
+try:
+    import requests
+    import time
+    import sys
+except:
+    print('[-] Error: One or more built-in modules are missing. Please install the required modules and try again.')
+    c = input('Would you like to install the required modules? (y/n): ')
+    if c.lower().startswith('y'):
+        os.system('pip install requests')
+        os.system('pip install time')
+        os.system('pip install sys')
+        print('Modules have been installed. Moving onto next check...')
+        check1 = True
 try:
     from colorama import Fore
+    if check1:
+        print("[+] Colorama is installed. Moving on.")
 except:
     print('[!] Please install the "colorama" module.')
     print('[!] pip install colorama')
@@ -14,6 +33,8 @@ except:
         print('[+] Please restart the program.')
         time.sleep(3)
     sys.exit()
+del check1
+os.system("cls && title SkiddyKit v1 | SocialTracker")
 
 username = input(f'[{Fore.BLUE}?{Fore.RESET}] Enter username: ')
   

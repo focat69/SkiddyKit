@@ -174,16 +174,16 @@ def search():
     if c.lower().startswith('y'):
         print(f'[{Fore.BLUE}+{Fore.RESET}] Saving results to file...')
         with open('results.txt', 'w') as f:
-            f.write(f'[+] ~ Results ~')
-            f.write(f'[~] {len(allLinks)} matches were found.')
-            f.write(f'[~] {len(accurateLinks)} of these matches were accurate.')
-            f.write(f'[~] ~ Accurate Links ~')
+            f.write(f'[+] ~ Results ~\n')
+            f.write(f'[~] {len(allLinks)} matches were found.\n')
+            f.write(f'[~] {len(accurateLinks)} of these matches were accurate.\n')
+            f.write(f'[~] ~ Accurate Links ~\n')
             for link in accurateLinks:
-                f.write(f'[+] {link}')
-            f.write('--------------------------------------------')
-            f.write(f'[~] ~ All Links ~')
+                f.write(f'[+] {link}\n')
+            f.write('--------------------------------------------\n')
+            f.write(f'[~] ~ All Links ~\n')
             for link in allLinks:
-                f.write(f'[{Fore.BLUE}+{Fore.RESET}] {link}')
+                f.write(f'[-] {link}\n')
         print(f'[{Fore.GREEN}~{Fore.RESET}] Results have been saved to "results.txt"')
     print(f'[{Fore.GREEN}~{Fore.RESET}] Exiting...')
     time.sleep(1)

@@ -1,6 +1,8 @@
 # added checks for people who didnt install python right
 # thanks gc 💀
 
+# 2024, aug. 15th
+# what the actual FUCK was i doing here??
 try:
     import os
 except:
